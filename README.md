@@ -19,10 +19,16 @@ Discord bot (v14) with a Report User Command (user applications).
 
 
 ## How to install all dependencies
-> npm i
- OR 
-> npm install
 
+```powershell
+npm i
+```
+
+OR
+
+```powershell
+npm install
+```
 
 
 ## How to run the discord bot?
@@ -30,4 +36,6 @@ Discord bot (v14) with a Report User Command (user applications).
 Make sure to create a `.env` file based on `.env_example`. 
 
 To run the script, all you have to do is:
-> npm run start:dev
+```powershell
+npm run start:dev
+```
